@@ -27,3 +27,5 @@ const neogCommunity = [
    // { name: "Akshay", role: "student", hours: [1, 3, 5, 7, 9, 0, 2] tag: "regular" },
    // { name: "Rohan", role: "mentor", hours: [1, 2, 3, 12, 2, 3, 0] },
    // { name: "Mohan", role: "student", hours: [4, 6, 8, 0, 1, 9, 2] tag: "regular" }
+   // added dates and complted it 
+   
