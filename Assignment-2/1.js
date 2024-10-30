@@ -20,3 +20,7 @@ const sounds = [
    const capitalizeLetters=(sounds)=>sounds.map(sound=>sound.name.toUpperCase())
    console.log(capitalizeLetters(sounds)) // Output: ["RAIN", "FIRE", "WATER"]
    
+
+
+
+   
