@@ -36,5 +36,6 @@ const displayOutput = document.querySelector("#output");
  "The data you are looking for, does not exist.";
  }
  });
+ displayOutput();
  // Output on the DOM should be: 
 // The data you are looking for, does not exist
